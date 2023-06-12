@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Raphaelgoncalvess
+- 👋 Olá, Sou o @Raphaelgoncalvess
 - 💥 Tenho interesse em Desenvolvimento Web Full Stack
-- 👨🏻‍💻 No momento estou aprendendo HTML, CSS e Javascript
+- 👨🏻‍💻 No momento estou aprendendo C# e SQL Server através de cursos da Udemy e do curso Jovem Programador do SENAC.
